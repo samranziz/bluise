@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "|Samran",
-  "welcomeText": "# Yo, i Am Samran,my website is under maintaince,\n\ni﻿t will be back sooon.",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "titleTemplate": "Samran",
+  "welcomeText": "Hello, and welcome to my medical blog! My name is \\[your name], and I am a \\[your profession], with a passion for sharing my knowledge and experiences in the healthcare field. As a medical blogger, I am dedicated to providing valuable insights and information on various medical topics, from the latest research and treatment options to practical advice for maintaining a healthy lifestyle. With years of experience in the healthcare industry, I have a wealth of knowledge to share with my readers, and I am committed to delivering accurate, reliable, and engaging content that empowers individuals to make informed decisions about their health and well-being. Whether you are a healthcare professional, a patient, or simply someone interested in learning more about the medical field, I invite you to join me on this journey of discovery and education.",
+  "logo": "/images/uploads/logo.png",
+  "icon": "/images/uploads/pexels-karolina-grabowska-4021775.jpg",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "health blog,health blog articles,health blog australia,health blog description,health blog examples,health blog ideas,health blog name ideas,health blog names,health blog post,health blog topics,health blog websites",
   "seoMetaImage": ""
 }
